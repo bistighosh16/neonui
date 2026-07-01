@@ -12,7 +12,7 @@ Beautiful, ready-to-use Streamlit components with **5 stunning themes** and glas
 [![License](https://img.shields.io/badge/License-MIT-7FFF9E?style=for-the-badge)](LICENSE)
 [![Made with Love](https://img.shields.io/badge/Made%20with-💜-B24BF3?style=for-the-badge)](https://github.com/bistighosh16)
 
-**[✨ Live Demo](https://neonui-demo.streamlit.app/)** · **[📖 Documentation](#-quick-start)** · **[🎨 Themes](#-themes)** · **[💜 Made by Vivi](https://github.com/bistighosh16)**
+(**[✨ Live Demo](https://neonui-demo.streamlit.app/)**)** · **[📖 Documentation](#-quick-start)** · **[🎨 Themes](#-themes)** · **[💜 Made by Vivi](https://github.com/bistighosh16)**
 
 </div>
 
