@@ -171,7 +171,7 @@ Elegant minimal luxury
 
 👉 Try the Live Demo to see them all in action!
 
-</div>
+
 🛣️ Roadmap
 ✅ v0.1.0 (Current)
 5 gorgeous themes
@@ -215,4 +215,3 @@ Because Streamlit apps deserve to look beautiful.
 
 ⬆ Back to Top
 
-</div> ```
