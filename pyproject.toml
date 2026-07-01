@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neonui"
+version = "0.1.0"
+description = "Beautiful, ready-to-use Streamlit components with neon aesthetics. Streamlit apps that don't look like Streamlit apps."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Vivi", email = "bistighosh16@gmail.com"}
+]
+keywords = ["streamlit", "components", "ui", "neon", "glassmorphism", "themes", "purple", "aesthetic"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Software Development :: User Interfaces",
+]
+dependencies = [
+    "streamlit>=1.28.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/bistighosh16/neonui"
+Repository = "https://github.com/bistighosh16/neonui"
+Issues = "https://github.com/bistighosh16/neonui/issues"
+Documentation = "https://github.com/bistighosh16/neonui#readme"
+
+[tool.setuptools.packages.find]
+include = ["neonui*"]
+exclude = ["tests*", "demo*", "examples*"]
