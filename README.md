@@ -213,5 +213,3 @@ If NeonUI made your Streamlit app more beautiful, please consider:
 Made with 💜 by Vivi
 Because Streamlit apps deserve to look beautiful.
 
-⬆ Back to Top
-
